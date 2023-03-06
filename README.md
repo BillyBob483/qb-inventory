@@ -18,3 +18,19 @@
 - Import qb-inventory.sql in your database
 
 **If any issues please contact us via discord - https://discord.gg/KXhFDVZm2q**
+
+<details>
+    <summary><b>uShifty</b></summary>
+        <p>
+            <a href="https://github.com/uShifty">
+                <img alt="GitHub" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png"
+                width="150" height="70">
+            </a>
+        </p>
+        <p>
+            <a href="https://discord.gg/AS2Y8TWejt">
+                <img alt="GitHub" src="https://logos-download.com/wp-content/uploads/2021/01/Discord_Logo_full.png"
+                width="150" height="55">
+            </a>
+        </p>
+</details>
