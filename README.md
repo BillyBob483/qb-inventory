@@ -1,4 +1,4 @@
-***QB-Inventory Re-Design***
+**QB-Inventory Re-Design**
 
 
 
