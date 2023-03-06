@@ -22,7 +22,7 @@
 ***Contributers***
 
 <details>
-    <summary><b>uShifty</b></summary>
+    <summary><b>YaBoiiNuggets</b></summary>
         <p>
             <a href="https://github.com/YaBoiiNuggets">
                 <img alt="GitHub" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png"
