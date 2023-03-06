@@ -11,6 +11,11 @@
 - qb-drugs - Drugs and Weed Planting System
 - qb-shops - Needed in order to add shops
 
+**Preview**
+
+![image](https://user-images.githubusercontent.com/111546475/223257678-b93314a3-a14f-45bc-b7cb-d419e820341f.png)
+
+
 **Installation**
 
 - Download the script and put it in the [qb] directory.
