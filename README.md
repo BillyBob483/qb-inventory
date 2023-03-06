@@ -5,7 +5,6 @@
 **Dependencies**
 
 - qb-core
-- qb-logs - For logging transfer and other history
 - qb-shops - Needed in order to add shops
 
 **Preview**
