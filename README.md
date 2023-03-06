@@ -15,3 +15,5 @@
 
 - Download the script and put it in the [qb] directory.
 - Import qb-inventory.sql in your database
+
+**If any issues please contact us via discord - https://discord.gg/KXhFDVZm2q**
