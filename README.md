@@ -13,7 +13,7 @@
 
 
 **Installation**
-
+- If you get and global lang error set this in your cfg somewhere | setr qb_locale "en"
 - Download the script and put it in the [qb] directory.
 - Import qb-inventory.sql in your database
 
