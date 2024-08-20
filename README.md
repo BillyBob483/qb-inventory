@@ -5,7 +5,6 @@
 **Dependencies**
 
 - qb-core
-- qb-shops - Needed in order to add shops
 
 **Preview**
 
